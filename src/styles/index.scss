@@ -1,0 +1,16 @@
+@import "variables";
+@import "bootstrap";
+@import "fontawesome";
+
+@import "tools";
+
+@import "dashboard";
+@import "customise";
+
+.form-group {
+  max-width: 400px;
+  margin-bottom: 1.5rem;
+  label {
+    margin-bottom: .25rem;
+  }
+}
